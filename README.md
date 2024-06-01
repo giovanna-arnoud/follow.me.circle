@@ -1,4 +1,4 @@
-# follow.me.circle
+# follow.me.circle ⚪️
 
 🇧🇷 - É uma tela roxa, onde você é seguido por um pincel circular, a cor pode mudar se você pressionar o botão do mouse ou clicar na tela do seu dispositivo. Aperte F5 ou CTRL+R para reiniciar a página e a tela! :)
 
